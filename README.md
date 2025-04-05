@@ -1,4 +1,4 @@
-## Olá me chamo Renan e estou desbravando nesse mundo fantástico de programação
+## Olá, me chamo Renan e estou desbravando este mundo fantástico da programação.
 
 Here are some ideas to get you started:
 
